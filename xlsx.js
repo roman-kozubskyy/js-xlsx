@@ -1,3 +1,6 @@
+/* */ 
+"format global";
+"deps ./jszip";
 /* xlsx.js (C) 2013-2015 SheetJS -- http://sheetjs.com */
 /* vim: set ts=2: */
 /*jshint -W041 */
